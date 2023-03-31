@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ADmyBRAND-India-/static/css/main.548cd788.css",
+    "main.js": "/ADmyBRAND-India-/static/js/main.8851f648.js",
+    "index.html": "/ADmyBRAND-India-/index.html",
+    "main.548cd788.css.map": "/ADmyBRAND-India-/static/css/main.548cd788.css.map",
+    "main.8851f648.js.map": "/ADmyBRAND-India-/static/js/main.8851f648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.548cd788.css",
+    "static/js/main.8851f648.js"
+  ]
+}
