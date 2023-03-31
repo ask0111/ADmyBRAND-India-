@@ -1,0 +1,16 @@
+input{
+    width: 150px;
+    height: 20px;
+    font-size: 20px;
+}
+
+select{
+    width: auto;
+    height: 25px;
+    font-size: 20px;
+}
+
+button{
+    font-size: 16px;
+
+}
